@@ -196,4 +196,24 @@ http://localhost:3000
 
 ---
 
+---
+
+## 📷 Output Screenshots
+
+### 1. Create Product (POST /products)
+![Create Product](/OUTPUT/Screenshot%202025-10-05%20220044.png)
+
+### 2. Get All Products (GET /products)
+![Get All Products](/OUTPUT/Screenshot%202025-10-05%20220115.png)
+
+### 3. Get Product by ID (GET /products/:id)
+![Get Product by ID](/OUTPUT/Screenshot%202025-10-05%20220225.png)
+
+### 4. Update Product by ID (PUT /products/:id)
+![Update Product](/OUTPUT/Screenshot%202025-10-05%20220301.png)
+
+### 5. Delete Product by ID (DELETE /products/:id)
+![Delete Product](/OUTPUT/Screenshot%202025-10-05%20220345.png)
+
+---
 
